@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Intelligent Parking</string>
+    <string name="label_buy_now">Buy Now</string>
+    <string name="title_activity_home">Map</string>
+    <string name="title_activity_gate">Map</string>
+</resources>
